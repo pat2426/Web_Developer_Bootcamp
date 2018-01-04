@@ -49,8 +49,6 @@ app.use("/campgrounds",campgroundRoutes);
 // COMMENTS ROUTES
 // ====================
 
-
-
 //============================
 //AUTH ROUTES
 //============================
