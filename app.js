@@ -26,7 +26,7 @@ app.use(express.static(__dirname + "/public"));
 //PASSPORT CONFIGURATION
 
 app.use(require("express-session")({
-    secret: "Dogas are better than cats",
+    secret: "Dogs are better than cats",
     resave:false,
     saveUninitialized: false
 }));
